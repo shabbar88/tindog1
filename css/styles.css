@@ -1,0 +1,149 @@
+#title{
+  background-color: red;
+}
+#u
+{
+  font-family: 'Montserrat', sans-serif;
+  color:white;
+  line-height: 1.5
+  font-weight:1500;
+  font-size: 4rem;
+}
+.fluid-container
+{
+  padding-left: 7%;
+  padding-right:7%;
+  padding-top:7%;
+
+}
+body{
+  font-family: 'Montserrat', sans-serif;
+}
+.navbar-brand
+{
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 3.5rem;
+}
+.navbar{
+  padding-bottom: 7%;
+}
+.nav-item
+{
+  padding-left: 1rem;
+  padding-right:1rem;
+}
+.nav-link
+{
+  font-size: 1.7rem;
+
+}
+.yes{
+  margin:5% 5% 5% 0%;
+}
+.photo{
+  width:50%;
+  transform: rotate(25deg);
+  position: relative;
+
+
+}
+#features
+{
+  background-color: yellow;
+  z-index: 3;
+  position: relative;
+
+
+}
+.boss1{
+  position: relative;
+  margin-left:1%;
+  padding-bottom: 3%;
+  font-size:50px;
+  color:red;
+}
+.row{
+    font-family: 'Ubuntu', sans-serif;
+}
+.so {
+  font-size:1.4rem;
+  color:#8f8f8f;
+}
+.col-lg-4
+{
+  text-align: center;
+  padding: 5%;
+}
+.boss1:hover{
+  color: #ff4c68;
+}
+/*
+testimonials
+*/
+#testimonials{
+
+  background-color: red;
+  text-align: center;
+  color: white;
+}
+.test{
+  width:150px;
+  border-radius: 50%;
+  margin:3%;
+}
+#press{
+  background-color: red;
+  text-align: center;
+  padding-top: 5%;
+  padding-bottom: 5%;
+  padding-right: 5%
+  padding-left:5%;
+}
+.l{
+  width: 15%;
+  padding: 5px 10px 5px 10px;
+}
+#carousel-testimonials{
+    padding:7% 15% 7% 15%;
+}
+
+#pricing{
+  padding: 100px;
+  text-align: center;
+}
+.come{
+  padding:3% 2%;
+}
+@media (max-width:768px){
+
+  #title{
+    background-color: cyan;
+    text-align: center;
+  }
+  .photo{
+    width:50%;
+    transform: rotate(0deg);
+    position: static;
+
+
+  }
+}
+
+.something{
+  text-align: center;
+  background-color: red;
+}
+#footer{
+  text-align: center;
+  padding-top: 1%;
+  background-color: red;
+  padding-bottom: 2%;
+}
+#change
+{
+  padding-top: 2%;
+  padding-bottom: 2%;
+}
+.me {
+  padding-top: 0%;
+}
